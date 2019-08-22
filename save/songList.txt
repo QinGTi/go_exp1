@@ -1,0 +1,3 @@
+一路向北-/home/huge/gopath/hh.st3
+晴天-/home/huge/gopath/huge.st1
+七里香-/home/huge/gopath/sy.st2
